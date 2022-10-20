@@ -1,7 +1,13 @@
-# Tetris 
+# Tetris
 
-## atmega328p
-## ws2812b - 10x20 = 200
+### Demo https://youtu.be/4BPgbiji1oo
+
+### The list of hardware
+
+- SparkFun Pro Mini ATmega328-5V/16MHz Development Board
+- 8Bitdo SN30 2.4G Wireless Gamepad for Original SNES/SFC (SF Edition) - Super NES
+- Led WS2812B x 200
+- Capacitor 1206 100NF x 200
 
 ### Schema
 
